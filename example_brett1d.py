@@ -17,7 +17,7 @@ N = 500
 t = np.sort(np.random.uniform(0, 10, N))
 
 # True parameters
-true_freqs = 5
+true_freqs = 5.19
 true_amps = [1,0]
 
 # Events
